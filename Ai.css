@@ -1,0 +1,34 @@
+body {
+    color: aliceblue;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+    background-image: url("https://media.istockphoto.com/photos/3d-abstract-background-with-ultraviolet-neon-lights-empty-frame-picture-id1191719793?b=1&k=20&m=1191719793&s=612x612&w=0&h=OMpsFvr6bZiuBkj0HnFyNNTU401COhP317Q_QSwmVpg=");
+    text-align: center;
+}
+
+#i1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#d1 {
+  
+    background:linear-gradient(#9B0000,#000B49) ;
+    width: 80%;
+    height: 70%;
+    padding: 15px;
+    box-shadow: 5px 5px 30px whitesmoke;
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+
+#d2 {
+    background: linear-gradient(#0002A1,#270082 );
+    height: 60%;
+    width: 50%;
+    box-shadow: 5px 5px 30px whitesmoke;
+    border-radius: 10px;
+}
